@@ -22,7 +22,7 @@ Prerequisites:
 
 Files:
 
-    * main.py
+    * main.pyw
 
 =======
 CONTACT
