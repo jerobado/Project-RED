@@ -1,2 +1,2 @@
 **Project-RED**
-A simple password generator using Python and PyQt
+A simple password generator using Python and PyQt.
